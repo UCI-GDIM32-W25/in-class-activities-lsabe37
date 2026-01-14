@@ -29,5 +29,11 @@ Here is the link: [Week 1 Activity](https://docs.google.com/document/d/11NYqSVvz
 
 ## Week 2
 
+Activity 1
+
 <img width="960" height="540" alt="W2 In-Class Activity" src="https://github.com/user-attachments/assets/29defdc4-871e-4a13-9ca7-29136c570546" />
+
+Activity 2
+
+[MG 2 commit link])(https://github.com/UCI-GDIM32-W25/mg2-lsabe37/commit/5b0e5e1b17f790e88e66fe1eaeb5ee66706c6d92)
 
