@@ -35,5 +35,5 @@ Activity 1
 
 Activity 2
 
-[MG 2 commit link])(https://github.com/UCI-GDIM32-W25/mg2-lsabe37/commit/5b0e5e1b17f790e88e66fe1eaeb5ee66706c6d92)
+[MG 2 commit link](https://github.com/UCI-GDIM32-W25/mg2-lsabe37/commit/5b0e5e1b17f790e88e66fe1eaeb5ee66706c6d92)
 
