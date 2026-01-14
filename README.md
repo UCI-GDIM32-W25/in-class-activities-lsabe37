@@ -37,3 +37,5 @@ Activity 2
 
 [MG 2 commit link](https://github.com/UCI-GDIM32-W25/mg2-lsabe37/commit/5b0e5e1b17f790e88e66fe1eaeb5ee66706c6d92)
 
+I worked on finishing the entire MG 2 game. The player can jump only when the space bar is pressed. The coins move in slowly from the right side of the screen at a random spawn rate. The coins are destroyed when collided with the player game object and the score UI is updated.
+
