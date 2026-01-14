@@ -41,3 +41,6 @@ Activity 3
 Here is the link: [Week 1 Activity](https://docs.google.com/document/d/11NYqSVvzWFbjYSesEhZULsuZtHzjsLqqcApzmbzIQNQ/edit?usp=sharing)
 
 ## Week 2
+
+<img width="960" height="540" alt="W2 In-Class Activity" src="https://github.com/user-attachments/assets/29defdc4-871e-4a13-9ca7-29136c570546" />
+
