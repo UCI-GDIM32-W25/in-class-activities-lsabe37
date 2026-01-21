@@ -39,3 +39,10 @@ Activity 2
 
 I worked on finishing the entire MG 2 game. The player can jump only when the space bar is pressed. The coins move in slowly from the right side of the screen at a random spawn rate. The coins are destroyed when collided with the player game object and the score UI is updated.
 
+## Week 3
+
+Activity 0-2
+
+My teammate for this week was Han.
+
+Activity 3
