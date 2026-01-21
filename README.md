@@ -46,3 +46,6 @@ Activity 0-2
 My teammate for this week was Han.
 
 Activity 3
+
+<img width="960" height="540" alt="W3 In-Class Activity" src="https://github.com/user-attachments/assets/b6360ebb-c769-4992-92cf-a53b0f9b6953" />
+
