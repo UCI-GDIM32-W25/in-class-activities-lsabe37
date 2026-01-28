@@ -63,4 +63,10 @@ Activity 2
 
 <img width="960" height="540" alt="W In-Class Activity" src="https://github.com/user-attachments/assets/b9cb921a-2c03-4db4-b45e-4d0d60c1fbe6" />
 
+Activity 3
+
+[MG4 Commit link](https://github.com/lsabe37/HW4/commit/5bc9cd88b0040ec8671c655b71b44310343c068d)
+
+I worked on setting up the player game object, pipe prefabs, and UI. I also work on the player script and set up for the pipes and pipe spawner scripts.
+
 
