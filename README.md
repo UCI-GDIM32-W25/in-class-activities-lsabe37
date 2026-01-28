@@ -49,3 +49,9 @@ Activity 3
 
 <img width="960" height="540" alt="W3 In-Class Activity" src="https://github.com/user-attachments/assets/b6360ebb-c769-4992-92cf-a53b0f9b6953" />
 
+## Week 4
+
+Activity 1
+
+When I add multiple Locator game objects and run the game, the Locator script will get deleted from all but one Locator game object. This is because the Locator script is a singleton and has code that makes sure only one instance of the Locator class can exist during the Awake process. 
+
