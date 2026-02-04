@@ -69,4 +69,9 @@ Activity 3
 
 I worked on setting up the player game object, pipe prefabs, and UI. I also work on the player script and set up for the pipes and pipe spawner scripts.
 
+## Week 5
+
+Activity 1
+
+I think the interface and abstract class designs are good because organize the different features of each playable item. By splitting the two inheritable classes into an interface and abstract class,the child classes can inherit from both these classes if necessry. I think I would keep this structure largely the same if I were to build a game like this.
 
