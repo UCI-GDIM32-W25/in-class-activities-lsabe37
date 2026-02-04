@@ -75,3 +75,20 @@ Activity 1
 
 I think the interface and abstract class designs are good because organize the different features of each playable item. By splitting the two inheritable classes into an interface and abstract class,the child classes can inherit from both these classes if necessry. I think I would keep this structure largely the same if I were to build a game like this.
 
+Activity 2
+
+The ItemW5Demo2 and EnemyStats represent the Model. The InventoryUI and DialogueBubble classes represent the View. The PlayerW5Demo2 and Enemyyw%Demo2  classes repreent the Controller.
+
+Activity 3
+
+Scenario 1: The beats will be prefabs and scriptable objects so that they will have a SpriteRenderer and necessary componets, as well as data such as where in the song they will be present.
+
+Scenario 2: In this game, the Model will be represented by the different types of weapons and their shooting behavior. The View will be represented by the UI and player animations. The Controller will be represented by classes that process player inputs for movements, using abiltiies, etc.
+
+Scenario 3: The model view controller will be used to structure the system. It will help separate the Player class from the UI, Sfx, Game Manager, and other View and Model classes.Inheritance with polymorphism will be used for the different crops. Each crop will have unique traits, such as time it takes to harvest, but they will all share similar features like how they are planted. Thus, each crop will be a child class of the crop parent absrtact class. Finite state machines will be used to determine whicgh state the crops will be in. It will also be used to determine which state the player is in. Singletons will be used in the game on classes such as the GameManager and SfxManager. These are classes that many other classes such as the PLayer class need to access and there will only be one instance of themm.
+
+Activity 4:
+
+Attendance: Leo Abe, Jing Chen, Han Yang
+
+[Final Project Proposal](https://docs.google.com/document/d/13jJEC-fdvdxtT06lxVfHc2n7kMfb3ouPPp6kTowmMfg/edit?usp=sharing)
