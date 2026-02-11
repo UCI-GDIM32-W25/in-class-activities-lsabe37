@@ -92,3 +92,15 @@ Activity 4:
 Attendance: Leo Abe, Jing Chen, Han Yang
 
 [Final Project Proposal](https://docs.google.com/document/d/13jJEC-fdvdxtT06lxVfHc2n7kMfb3ouPPp6kTowmMfg/edit?usp=sharing)
+
+## Week 6
+
+Activity 1
+
+Gizmos are a helpful way to debug physics and collider related issues. I think Gizmos can be used in my final project to help visualize certain parts of the game that will be invisible to players. For example, I can check how far the player needs to be in order to interact with items by drawing Gizmos. I can use performance profiling to improve my game's performance. For example, I can use performane profiling to check how my game's performance will be influenced when I add features that require lots of calculations to be done at once. I can use breakpoints to help debug my code by allowing the program to stop before the line of code with the error runs. I can use breakpoints in my final project to figure out which lines of my code are null when it runs. This will help me figure out where the issues in my code are.
+
+Activity 2
+
+Attendance: Leo Abe, Jing Chen, Han Yang
+
+[Final Project Proposal](https://docs.google.com/document/d/13jJEC-fdvdxtT06lxVfHc2n7kMfb3ouPPp6kTowmMfg/edit?usp=sharing)
