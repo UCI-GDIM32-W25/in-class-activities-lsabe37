@@ -119,7 +119,7 @@ Attendance: Leo Abe, Jing Chen, Han Yang
 
 Activity 3
 
-
+<img width="960" height="540" alt="Breakdown" src="https://github.com/user-attachments/assets/5e297f36-bee9-4583-b9f7-d357098be727" />
 
 Activity 4
 
