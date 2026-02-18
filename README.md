@@ -104,3 +104,25 @@ Activity 2
 Attendance: Leo Abe, Jing Chen, Han Yang
 
 [Final Project Proposal](https://docs.google.com/document/d/13jJEC-fdvdxtT06lxVfHc2n7kMfb3ouPPp6kTowmMfg/edit?usp=sharing)
+
+## Week 7
+
+Activity 1
+
+Raycast can be used in commonly seen game mechanics such as aggro conditions for the npc characters. In the example, raycast is used to check what is in the line of sight for the duck npc. When raycast hits the player chicken, the duck will enter the aggro state. However, if the raycast hits something other than the chicken, it will not aggro on the player.
+
+Spherecast, like raycast, can be used to check if something is in front of the the character. In the example, the spherecast on the duck is used to check if an obstacle is in the way of the duck. When the spherecast detects an obstacle, the duck will turn and move in a new direction. 
+
+Activity 2
+
+Attendance: Leo Abe, Jing Chen, Han Yang
+
+Activity 3
+
+
+
+Activity 4
+
+
+
+Activity 5
