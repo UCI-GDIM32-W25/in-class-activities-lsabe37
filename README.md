@@ -128,3 +128,28 @@ Activity 4
 Activity 5
 
 [Activty 5 commit link](https://github.com/hayaya22333/GDIM32-Final/commit/d8ea65c8c3ba190c0d973496869ec5eb7864d06f)
+
+## Week 8
+
+Activity 1
+
+Rendering pipelines are used to draw to the screen.They determine which materials get drawn and which shader libraries are used. Post processing effects are shaders that affect the appearance of the entire screen.
+
+Activity 2
+
+Attendance: Leo Abe, Jing Chen, Han Yang
+
+Activity 3
+
+Use keybinds for interacting with stuff. Lock cursor to the center of the screen. Disable player movement while dialogue exchange is happening. Add in-dialogue and out-of-dialogue states to control player behavior while dialogue is and isn't happening.
+
+Activity 4
+
+Work on dialogue system for NPC.
+
+Activity 5
+
+[Activty 5 commit link](https://github.com/hayaya22333/GDIM32-Final/commit/07902182eb01849d63a91354617f24f1f628b8dd)
+
+Worked on adding NPC and item models into the scene. Worked on improving the NPC dialogue system scripts. Worked on improving dialogue UI.
+
