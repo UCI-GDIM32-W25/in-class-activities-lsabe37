@@ -153,3 +153,26 @@ Activity 5
 
 Worked on adding NPC and item models into the scene. Worked on improving the NPC dialogue system scripts. Worked on improving dialogue UI.
 
+## Week 9
+
+Activity 1
+
+Dialogue objects can be used to store which dialogue will be spoken by the NPC depending on game state. This allows us to start with certain lines of dialogue based on the last action the player took. Using dialogue objects makes our system more scalable.
+
+Activity 2
+
+Attendance: Leo Abe, Jing Chen, Han Yang
+
+Activity 3
+
+Navigating the UI is difficult. Inventory UI is confusing because it is not clear which box is selected. The environment could use less plants so that the sun shines through. Instantiate the objects at an offset when dropping items. Use the same key for interacting and progressing dialogue for NPC.
+
+Activity 4
+
+We are actually ahead of schedule since we worked on most of the dialogue system as well as all the requirements for the check-in. This means that our scope is reasonable.
+
+Activity 5
+
+[Activty 5 commit link](https://github.com/hayaya22333/GDIM32-Final/commit/629b42e104e580465229af59894859de267ee666)
+
+I worked on the Frogman shooter and bullet scripts. These will be used for the Frogman NPC's angry behavior when the player gets his quest wrong.
