@@ -176,3 +176,24 @@ Activity 5
 [Activty 5 commit link](https://github.com/hayaya22333/GDIM32-Final/commit/629b42e104e580465229af59894859de267ee666)
 
 I worked on the Frogman shooter and bullet scripts. These will be used for the Frogman NPC's angry behavior when the player gets his quest wrong.
+
+## Week 10
+
+Activity 1
+
+Attendance: Leo Abe, Jing Chen, Han Yang
+
+Activity 2
+
+Add player dialogue options and corresponding NPC responses. Fix the Frogman NPC shooter because its aiming is bugged. Have the Frogman NPC move around or start in an idle animation instead of walk.
+
+Activity 3
+
+We are currently ahead of schedule for our final project. This is why we decided to add a feature that was not in the original plan, which is to give Frogman an angered state. This state is triggered if the player gives the wrong item to him and it will cause him to attack the player by shooting at them. The shooting system is mostly complete so we are still within scope for finishing our game on time with this new feature.
+
+Activity 4
+
+[Activty 4 commit link](https://github.com/hayaya22333/GDIM32-Final/commit/b5cbaf942ba41150836f5daf757acb6cb21b1955)
+
+I worked on improving the Frogman shooter and bullets scripts. I also began working on the player response features for the dialogue system. This will allow players to choose between several dialogue options to respond to Frogman after he gives his dialogue lines. Frogman will then respond with the corresponding dialogue object.
+
